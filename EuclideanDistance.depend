@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714563748 source:c:\users\netho\onedrive\desktop\c++ projects\euclideandistance\main.cpp
+	<iostream>
+	<cmath>
+
